@@ -1,6 +1,12 @@
 .jumbotron{
     margin-bottom: 0px;
     background-image: url("/images/LakePhoto.jpg");
+    background-color: aquamarine;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
+
+.left, .right{background-color: blue;
+height: 1000px;}
+
